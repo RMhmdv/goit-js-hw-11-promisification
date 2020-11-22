@@ -1,7 +1,7 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-11-promisification",
   "version": "1.1.0",
-  "description": "DZ 10 JS",
+  "description": "DZ 11/2 JS",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RMhmdv/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/RMhmdv/goit-js-hw-11-promisification.git"
   },
   "author": "Rava",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RMhmdv/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/RMhmdv/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://RMhmdv.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://RMhmdv.github.io/goit-js-hw-11-promisification",
   "keywords": [],
   "devDependencies": {
     "@babel/core": "^7.11.6",
